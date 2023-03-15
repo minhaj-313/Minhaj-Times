@@ -1,9 +1,3 @@
-/**
-* Template Name: FlexStart - v1.11.1
-* Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
 
@@ -293,23 +287,6 @@
 
 })();
 
-// Pre-loader
-
-// type="text/javascript">
-
-//    jQuery(window).load(function () {
-//        "use strict";
-   
-// if(  jQuery( '.et-bfb' ).length <= 0 && jQuery( '.et-fb' ).length <= 0  ){ 
-// jQuery(".rsd-st").fadeOut();
-
-// jQuery(".rsd-loader").delay(1000).fadeOut("slow");
-// }else{
-// jQuery(".rsd-loader").css('display','none');
-// }
-//    }); 
-
-// 
 
 
 
